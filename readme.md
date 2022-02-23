@@ -11,7 +11,7 @@
 ## Установка
 Установить зависимости
 ```
-composer require bigperson/laravel-exchange1c
+composer require burcev-alex/laravel-exchange1c
 ```
 
 ### Для Laravel 5.4 и ниже 
